@@ -4,6 +4,7 @@
 # # Exploring a post popularity depending on it's time of creating
 # 
 # The data for the project was taken here: [Link](https://www.kaggle.com/hacker-news/hacker-news-posts)
+# Before running the code, you should extract the data
 # 
 # Here we're going to explore posts on Hacker News and try to find out the best time to public a post if we want to get the greatest ammount of comments 
 
